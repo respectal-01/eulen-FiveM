@@ -1,0 +1,5 @@
+start "loader.exe" 
+
+Enter Server FiveM 
+
+click inject and enjoy !!
